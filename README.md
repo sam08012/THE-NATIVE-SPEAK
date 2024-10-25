@@ -1,10 +1,10 @@
 # The Native Speaker 🎯
 
-A web-based pronunciation tool born from a personal experience at my college convocation, where the mispronunciation of my name turned what should have been a moment of pride into one of embarrassment. This tool aims to ensure no one else has to experience such a moment during their important life events.
+A pronunciation tool born from a personal experience at my college convocation, where the mispronunciation of my name turned what should have been a moment of pride into a utter embarrassment. This tool aims to ensure no one else has to experience such a moment during their important events.
 
 ## 🌟 Project Overview
 
-The Native Speaker is an interactive web application that helps speakers, hosts, and presenters correctly pronounce names and words from different cultures. Whether you're a conference host, a teacher, or anyone who regularly interacts with people from diverse backgrounds, this tool is designed to make pronunciation accessible and accurate.
+The Native Speaker helps speakers, hosts, and presenters correctly pronounce names and words from different cultures. Whether you're a conference host, or anyone who meets and greets people of different cultures ,this tool is designed to make pronunciation accessible and accurate.
 
 ## 💡 Motivation
 
@@ -37,19 +37,12 @@ Built with:
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/[your-username]/native-speaker.git
-   ```
-
-2. Open `index.html` in your web browser
-
-3. Type a name or word, select the language, and click "Pronounce and Generate QR Code"
+Just go to the website: [anyone who meets and greets people of different cultures]
 
 ## 💻 Usage Example
 
-1. Enter a name: "Samriddh"
-2. Select language: Hindi
+1. Enter a name: "Vincent Van Gogh"
+2. Select language: German
 3. Click the pronunciation button
 4. Share the generated QR code with others who need to pronounce the name
 
@@ -69,14 +62,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Samriddh K. Singh - [Your Email]
-
-Project Link: [https://github.com/[your-username]/native-speaker](https://github.com/[your-username]/native-speaker)
+Samriddh K. Singh - [samriddh0801@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/samriddh-kumar-singh-b960b3215/]
 
 ## 🙏 Acknowledgments
 
 This project is dedicated to all international students, professionals, and anyone who has ever felt the impact of having their name mispronounced. Your identity matters, and your name deserves to be pronounced correctly.
 
 ---
-
-⭐️ If you find this tool helpful, please consider giving it a star on GitHub!
