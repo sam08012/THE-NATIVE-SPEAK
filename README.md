@@ -37,7 +37,7 @@ Built with:
 
 ## 🚀 Getting Started
 
-Just go to the website: [anyone who meets and greets people of different cultures]
+Just go to the website: [https://sam08012.github.io/THE-NATIVE-SPEAK/]
 
 ## 💻 Usage Example
 
