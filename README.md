@@ -37,7 +37,7 @@ Built with:
 
 ## 🚀 Getting Started
 
-Just go to the website: [https://sam08012.github.io/THE-NATIVE-SPEAK/]
+Just go to the website: [https://sam08012.github.io/THE-NATIVE-SPEAKER/]
 
 ## 💻 Usage Example
 
